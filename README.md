@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amani
+- 👀 I’m interested in data analytics and games!
+- 🌱 I’m currently learning SQL, Python, Tableau and Power BI
